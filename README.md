@@ -69,6 +69,8 @@ O ecossistema computacional foi modularizado em seis etapas sequenciais determin
 
 1. Clone este repositório:
    ```bash
+   git clone [https://github.com/costhaisme/tcc-tesouro-ipca-deep-learning.git](https://github.com/costhaisme/tcc-tesouro-ipca-deep-learning.git)
+   cd tcc-tesouro-ipca-deep-learning
 
 2. Instale as dependências (recomendado Python 3.10+ ou execução direta no Google Colab):
    pip install numpy pandas scikit-learn matplotlib tensorflow==2.15.0 xlrd openpyxl
