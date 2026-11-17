@@ -89,6 +89,5 @@ Caso utilize este código ou metodologia em sua pesquisa, cite como:
   address      = {Marabá, PA},
   type         = {Trabalho de Conclusão de Curso (Bacharelado em Sistemas de Informação)},
   note         = {Orientador: Prof. Dr. Adam Dreyton Ferreira dos Santos}
-}
    git clone [https://github.com/costhaisme/tcc-tesouro-ipca-deep-learning.git](https://github.com/costhaisme/tcc-tesouro-ipca-deep-learning.git)
    cd tcc-tesouro-ipca-deep-learning
